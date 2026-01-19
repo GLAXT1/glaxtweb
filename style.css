@@ -5,9 +5,10 @@
 
 h1 {
    border: 2px solid red;
-   height: 45px; 
-   padding-top: 20px;
-   padding-left: 100px;
+   height: 45px;
+   width: 20pc; 
+   padding-top: pc;
+   padding-left: 1pc;
    color:white;
 
 }
@@ -19,6 +20,6 @@ h1 {
 #id_p1-header {
    color: white;
    margin-top: 1pc;
-   font-size: 2pc;
+   font-size: 1.5pc;
    
 }
