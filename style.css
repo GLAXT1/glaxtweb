@@ -9,16 +9,12 @@ h1 {
    
    padding-top: pc;
    padding-left: 18pc;
-   color:white;
+   color:rgb(255, 255, 255);
 
 }
-#idh1-header {
-   color: blue;
-   font-size: 1.6pc;
-   background-color: red;
-}
+
 #id_p1-header {
-   color: white;
+   color: rgb(255, 3, 3);
    margin-top: 1pc;
    font-size: 1.5pc;
    
@@ -27,6 +23,10 @@ p1 {
    font-size: 2pc;
    border: 0.4pc dashed rgb(255, 0, 0);
    background-color: rgb(255, 0, 0);
-   color:black;
+   color:rgb(255, 246, 246);
    border-radius: 1pc;
+}
+p {
+   font-size: 2pc;
+   color: blue;
 }
