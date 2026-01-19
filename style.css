@@ -1,0 +1,24 @@
+.h1_classe {
+   font-style: italic;
+   font-size: 2pc; 
+}
+
+h1 {
+   border: 2px solid red;
+   height: 45px; 
+   padding-top: 20px;
+   padding-left: 100px;
+   color:white;
+
+}
+#idh1-header {
+   color: blue;
+   font-size: 1.6pc;
+   background-color: red;
+}
+#id_p1-header {
+   color: white;
+   margin-top: 1pc;
+   font-size: 2pc;
+   
+}
