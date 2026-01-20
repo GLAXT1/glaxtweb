@@ -1,44 +1,28 @@
-.h1_classe {
-   font-style: italic;
-   font-size: 2pc; 
+body {
+  color: white;
+  background-color: fuchsia;
+  
+}
+ol {
+  border: 0.2pc solid black;
+  height: 8pc;
+  width: 13pc;
+  border-radius:1.5pc;
+  background: blue;
+  margin-left: 2.5pc;
+  
+  
+}
+li {
+  padding-top: 0.7pc;
+  border: 0.1pc solid white;
+  width: 10pc;
+  background-color: white;
+  color: darkred;
+  border-radius: 0.2pc;
+  font-size: 1pc;
 }
 
-h1 {
-   border: auto solid red;
-   background-color:;
-   height: 2.4pc;
-   width: 10pc;
-   padding-top: pc;
-   padding-left: pc;
-   margin-top: ;
-   margin-left: 6pc;
-   color:rgb(255, 255, 255);
 
-}
 
-#id_p1-header {
-   color: rgb(229, 245, 1);
-   margin-top: 1pc;
-   font-size: 2pc;
-   
-}
-p1 {
-   font-size: 2pc;
-   
-   background-color: rgb(67, 97, 55);
-   color:rgb(255, 246, 246);
-   border-radius: 0.5pc;
-}
-p {
-   font-size: 2pc;
-   color: rgb(208, 208, 231);
-}
-p {
-   border: 0.5pc solid rgba(16, 161, 125, 0.705);
-}
-h11 {
-   font-size: 2pc;
-   color: white;
-   
-   
-}
+
