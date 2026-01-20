@@ -17,21 +17,24 @@ h1 {
 }
 
 #id_p1-header {
-   color: rgb(255, 3, 3);
+   color: rgb(229, 245, 1);
    margin-top: 1pc;
    font-size: 2pc;
    
 }
 p1 {
    font-size: 2pc;
-   border: 0.4pc dashed rgb(255, 0, 0);
-   background-color: rgb(255, 0, 0);
+   
+   background-color: rgb(67, 97, 55);
    color:rgb(255, 246, 246);
-   border-radius: 1pc;
+   border-radius: 0.5pc;
 }
 p {
    font-size: 2pc;
-   color: blue;
+   color: rgb(208, 208, 231);
+}
+p {
+   border: 0.5pc solid rgba(16, 161, 125, 0.705);
 }
 h11 {
    font-size: 2pc;
