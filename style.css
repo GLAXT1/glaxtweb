@@ -4,11 +4,14 @@
 }
 
 h1 {
-   border: 2px solid red;
-   background-color: rgb(255, 0, 0);
-   
+   border: auto solid red;
+   background-color:;
+   height: 2.4pc;
+   width: 10pc;
    padding-top: pc;
-   padding-left: 18pc;
+   padding-left: pc;
+   margin-top: ;
+   margin-left: 6pc;
    color:rgb(255, 255, 255);
 
 }
@@ -16,7 +19,7 @@ h1 {
 #id_p1-header {
    color: rgb(255, 3, 3);
    margin-top: 1pc;
-   font-size: 1.5pc;
+   font-size: 2pc;
    
 }
 p1 {
@@ -29,4 +32,10 @@ p1 {
 p {
    font-size: 2pc;
    color: blue;
+}
+h11 {
+   font-size: 2pc;
+   color: white;
+   
+   
 }
